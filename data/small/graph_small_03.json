@@ -1,0 +1,39 @@
+{
+  "directed": true,
+  "n": 10,
+  "edges": [
+    {
+      "u": 0,
+      "v": 7,
+      "w": 9
+    },
+    {
+      "u": 0,
+      "v": 8,
+      "w": 9
+    },
+    {
+      "u": 2,
+      "v": 5,
+      "w": 3
+    },
+    {
+      "u": 2,
+      "v": 9,
+      "w": 7
+    },
+    {
+      "u": 3,
+      "v": 9,
+      "w": 3
+    },
+    {
+      "u": 5,
+      "v": 7,
+      "w": 1
+    }
+  ],
+  "source": 0,
+  "weight_model": "edge",
+  "description": "Sparse DAG - 10 nodes, sparse connections, no cycles"
+}
